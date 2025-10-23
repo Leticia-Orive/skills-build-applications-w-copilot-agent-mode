@@ -1,14 +1,14 @@
-# Build Applications with GitHub Copilot Agent Mode
+# Construir Aplicaciones con GitHub Copilot Modo Agente
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey Leticia-Orive!
+¡Hola Leticia-Orive!
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+Soy Mona. He terminado de preparar tu ejercicio. ¡Espero que lo disfrutes! 💚
 
-Remember, it's self-paced so feel free to take a break! ☕️
+Recuerda, es a tu propio ritmo, así que ¡siéntete libre de tomar un descanso! ☕️
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Leticia-Orive/skills-build-applications-w-copilot-agent-mode/issues/1)
+[![](https://img.shields.io/badge/Ir%20al%20Ejercicio-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Leticia-Orive/skills-build-applications-w-copilot-agent-mode/issues/1)
 
 ---
 
